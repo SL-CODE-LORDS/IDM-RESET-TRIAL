@@ -42,7 +42,7 @@ IDM Reset Trial 1.0.0 - [Download](https://github.com/SL-CODE-LORDS/IDM-RESET-TR
 
 ## 🎈 Usage <a name="usage"></a>
 
-![IDM-reset-trial](https://i.imgur.com/xUGaHMK.gif)
+![IDM-reset-trial](https://i.imgur.com/VNTMsJ8.gif)
 
 ## ✍️ Authors <a name = "authors"></a>
 
