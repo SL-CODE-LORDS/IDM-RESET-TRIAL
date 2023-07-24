@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Download
 
-IDM Reset Trial 1.0.0 - [Download](https://github.com/SL-CODE-LORDS/IDM-RESET-TRIAL/releases/download/idm-reset-trial/IDM-Reset-trial.exe)
+IDM Reset Trial 1.0.0 - [Download](https://github.com/SL-CODE-LORDS/IDM-RESET-TRIAL/releases/download/idm-reset/IDM-Reset-trial.exe)
 
 ## 🎈 Usage <a name="usage"></a>
 
